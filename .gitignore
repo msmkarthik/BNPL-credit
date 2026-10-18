@@ -1,0 +1,5 @@
+# Datasets are not committed
+*.csv
+
+.ipynb_checkpoints/
+.DS_Store
